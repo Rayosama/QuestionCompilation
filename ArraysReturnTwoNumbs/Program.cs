@@ -13,12 +13,12 @@ namespace ArraysReturnTwoNumbs
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            AnyTwoNumbers(100);
+
         }
 
         public static bool AnyTwoNumbers(int k, int[] arr)
         {
-            
+
             for (int i = 0; i < arr.Length; i++)
             {
                 for (int b = i + 1; b < arr.Length; b++)
