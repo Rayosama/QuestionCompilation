@@ -1,0 +1,1 @@
+This is a compilation of various C# questions and answers. Not all of them have been completed. Feel free to look through and add your code if there is code missing. Also, if you have a more optimized way of doing it, add it so I can learn!
