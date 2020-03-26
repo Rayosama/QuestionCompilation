@@ -10,8 +10,8 @@ namespace ReviewInformationFeb
             GlobalVariable = 5;
             int localVariable = GlobalVariable;
         }
-        
-        
+
+
 
     }
     class Program

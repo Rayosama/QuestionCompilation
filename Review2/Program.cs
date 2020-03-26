@@ -9,7 +9,7 @@ namespace Review2
             int sum = a + b;
             return sum;
         }
-        
+
         static void Main(string[] args)
         {
             //Below we're calling the method above us, assigning values, then adding it to it's self, so it ends up being 7+14=21
@@ -17,7 +17,7 @@ namespace Review2
             result += SumTWoValues(result, result);
             Console.WriteLine(result);
             //Now if else statements
-            if(boolean_predicate1)
+            if (boolean_predicate1)
             {
                 //statements executed if boolean_predicate_1 is true
             }
@@ -33,15 +33,15 @@ namespace Review2
             //First, while loop
             int x;
             x = 0;
-            
-            
 
-            while(x < 5)
+
+
+            while (x < 5)
             {
                 Console.WriteLine(x++);
             }
             //For Loop
-            for(int y=0; y<4; y++)
+            for (int y = 0; y < 4; y++)
             {
                 Console.WriteLine(y);
             }
@@ -49,7 +49,7 @@ namespace Review2
             int z = 0;
             do
             {
-                Console.WriteLine
+                Console.WriteLine();
             } while (++z < 5);
         }
     }

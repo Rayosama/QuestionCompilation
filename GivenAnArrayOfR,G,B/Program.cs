@@ -23,6 +23,6 @@ namespace GivenAnArrayOfR_G_B
             //To do it without using the built-in functions
         }
 
-       
+
     }
 }
